@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3D Printes
+title: 3D Printers
 nav_order: 3
 has_children: true
 ---
