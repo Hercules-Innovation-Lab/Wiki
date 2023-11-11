@@ -1,7 +1,19 @@
 ---
 layout: default
-title: test page
-nav_order: 2
+title: Contact Us
+nav_order: 99
 ---
 
-# this is a test page
+# Contact Us
+
+## Location
+
+We are located at XYZ spot
+
+## Phone
+
+You can call us at 123456789
+
+
+
+
