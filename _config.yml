@@ -1,10 +1,11 @@
 title: HIL Wiki
 description: Knowledge base of the items used at the HIL
 theme: just-the-docs
+color_scheme: dark
 
 url: https://herculesinnovationlab.github.io/Wiki
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  HerculesInnovation.com: https://sites.google.com/afwerxspark.com/hercules-innovation-lab/home/
 
-  color_scheme: dark
+  
