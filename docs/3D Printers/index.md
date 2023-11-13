@@ -95,3 +95,5 @@ solid Mesh
   endfacet
 endsolid Mesh
 ```
+
+It seems like STLs do not work
