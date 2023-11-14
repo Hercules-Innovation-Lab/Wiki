@@ -4,7 +4,12 @@ title: Home
 nav_order: 1
 ---
 
-# This is the homepage
+# Hercules Innovation Lab Wiki
 
+## Your Ramstein Spark Cell
 
-Welcome to the homepage.
+Below you will find  a number of articles writen to help you use the Spark Cell to its full potential.
+
+[Theater Operations](xxxTheaterOps)
+[3D Printer Info](https://herculesinnovationlab.github.io/Wiki/docs/3D%20Printers/)
+[Main Hercules Innovation Site](https://herculesinnovation.com)
