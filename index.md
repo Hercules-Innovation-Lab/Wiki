@@ -10,7 +10,7 @@ nav_order: 1
 
 Below you will find  a number of articles writen to help you use the Spark Cell to its full potential.
 
-[Theater Operations](xxxTheaterOps)
+[Theater Operations](https://herculesinnovationlab.github.io/Wiki/docs/Theater/)
 
 [3D Printer Info](https://herculesinnovationlab.github.io/Wiki/docs/3D%20Printers/)
 
