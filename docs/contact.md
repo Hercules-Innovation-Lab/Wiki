@@ -8,7 +8,7 @@ nav_order: 99
 
 ## Location
 
-We are located at XYZ spot
+We are located on Ramrstein AB, at the hercules theater
 
 ## Phone
 
