@@ -1,6 +1,6 @@
 ---
 title: About
-layout: Default
+layout: default
 nav_order: 98
 ---
 
