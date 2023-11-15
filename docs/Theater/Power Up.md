@@ -5,4 +5,10 @@ parent: Theater
 nav_order: 1
 ---
 
-# Power Up Procedures
+# Theater Power Up steps
+
+## Turn On Stage Lights
+
+## Turn on Projector
+
+## Connect laptop

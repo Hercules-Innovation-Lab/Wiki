@@ -1,4 +1,41 @@
-# just-the-docs-template
+# The Hercules Innovation Lab Wiki
+
+## Hosting
+
+This site is hosted on Github pages, a free offer from Github.
+
+The site can currently be found [here](https://herculesinnovationlab.github.io/Wiki/).
+
+*in the future this might redirect, but in the mean time, the domain will stay on github.io*
+
+
+## Jekyll
+
+[Jekyll] is a markdown file `*.md` compiler.
+
+It takes a standard `*.md` file and runs it though the [kramdown parser](https://kramdown.gettalong.org/parser/kramdown.html).
+
+After parsing the content is converted to standard `<html>` tags.
+
+## just-the-docs
+
+[Just the Docs] is a theme engine for the Jekyll compiler.
+
+This is what applyes the theme during the html creation process.
+
+It automaticly creates the sidebar and searabilty of the site.
+
+
+
+## How to update
+
+You can update the HIL wiki right in the Githubs web editor.
+
+When you save/commit your changes, it will envoke a Github action, that converts the `*.md` files, and uploads the site to Github pages.
+
+
+
+# Original Readme.md for the just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
