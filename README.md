@@ -9,7 +9,13 @@ The site can currently be found [here](https://herculesinnovationlab.github.io/W
 *in the future this might redirect, but in the mean time, the domain will stay on github.io*
 
 
-## Jekyll
+
+## How it works
+
+![/pics/GithubFlow.png]
+
+
+### Jekyll
 
 [Jekyll] is a markdown file `*.md` compiler.
 
@@ -17,7 +23,7 @@ It takes a standard `*.md` file and runs it though the [kramdown parser](https:/
 
 After parsing the content is converted to standard `<html>` tags.
 
-## just-the-docs
+### just-the-docs
 
 [Just the Docs] is a theme engine for the Jekyll compiler.
 
@@ -27,7 +33,7 @@ It automaticly creates the sidebar and searabilty of the site.
 
 
 
-## How to update
+### How to update
 
 You can update the HIL wiki right in the Githubs web editor.
 
