@@ -12,7 +12,7 @@ The site can currently be found [here](https://herculesinnovationlab.github.io/W
 
 ## How it works
 
-!(https://github.com/HerculesInnovationLab/Wiki/blob/main/pics/GithubFlow.png?raw=true)[/pics/GithubFlow.png]
+![photo](https://github.com/HerculesInnovationLab/Wiki/blob/main/pics/GithubFlow.png?raw=true)
 
 
 ### Jekyll
