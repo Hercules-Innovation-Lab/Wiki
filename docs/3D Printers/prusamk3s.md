@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Prusa MK3S
+title: Prusa MK3S+
 parent: 3D Printers
 nav_order: 2
 ---

@@ -7,7 +7,7 @@ nav_order: 2
 
 # Theater Power Down steps
 
-## Discoonnect laptop
+## Disconnect laptop
 
 ## Turn Off Projector
 
