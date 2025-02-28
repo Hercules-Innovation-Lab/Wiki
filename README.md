@@ -4,7 +4,7 @@
 
 This site is hosted on Github pages, a free offer from Github.
 
-The site can currently be found [here](https://herculesinnovationlab.github.io/Wiki/).
+The site can currently be found [here](https://hercules-innovation-lab.github.io/Wiki/).
 
 *in the future this might redirect, but in the mean time, the domain will stay on github.io*
 
